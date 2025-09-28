@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Academic Zone","description":"This area contains the main academic buildings including the science center and library.","fill":"#ff6666","stroke":"#990000"},"geometry":{"type":"Polygon","coordinates":[[[-71.122,42.338],[-71.12,42.338],[-71.12,42.336],[-71.122,42.336],[-71.122,42.338]]]},"id":0}]}
